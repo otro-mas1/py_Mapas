@@ -27,7 +27,7 @@
 - Vamos a usar distintas librerías para los gráficos: geoviews, holoviews, geoviews, en los mapas interactivos y matplotlib para crear ficheros png y luego un gif.
 
 - Terminando con opciones interactivas.
-<img src="img/provincias_ia14d_medias.gif" align='center'>
+<img src="img/provincias_ia14d_fps2_5.gif" align='center'>
 
 <br><br>
 ### Empecemos preparando el entorno e importando las librerías que vamos a usar
