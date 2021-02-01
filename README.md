@@ -95,7 +95,7 @@ https://vangdata.carto.com/tables/shapefiles_provincias_espana/public/map
 ----
 ----
 ## Además exportamos al final un fichero html, independiente e interactivo! ;)
-[Mapas peninsula canarias semáforo COVID]("img/Mapa_peninsula_COVID_semaforo.html")
+[Mapas peninsula canarias semáforo COVID]("https://raw.githubusercontent.com/otro-mas1/py_Mapas/Mapa_peninsula_COVID_semaforo.html")
 
 
 ## Filtramos las provincias que superan el umbral
