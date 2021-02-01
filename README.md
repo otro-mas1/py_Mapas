@@ -95,18 +95,18 @@ https://vangdata.carto.com/tables/shapefiles_provincias_espana/public/map
 ----
 ----
 ## Además exportamos al final un fichero html, independiente e interactivo! ;)
-[Mapas peninsula canarias]("Mapa_peninsula_COVID_semaforo.html")
+[Mapas peninsula canarias semáforo COVID]("img/Mapa_peninsula_COVID_semaforo.html")
 
 
 ## Filtramos las provincias que superan el umbral
-<img src="img/peninsula_filtradas.png" align='center'>
+<img src="img/peninsula_filtrada.png" align='center'>
 
 
 ## Seguimos evolucionando
-## Empezamos a usar todos los datos desde junio de 2020
-## Añadimos más interactividad y opciones de filtrado
-## Ahora se puede filtrar el umbral de TIA_14d
-## Y se puede seleccionar otra fecha distinta para ver la evolución
+## - Empezamos a usar todos los datos desde marzo de 2020
+## - Añadimos más interactividad y opciones de filtrado
+## - Ahora se puede filtrar el umbral de TIA_14d
+## - Y se puede seleccionar otra fecha distinta para ver la evolución
 ##
 <img src="img/Readme_filtra_evolucion.png" align='center'>
 
@@ -115,7 +115,7 @@ https://vangdata.carto.com/tables/shapefiles_provincias_espana/public/map
 ### 
 <br>
 <br>
-### Los juntamos en un distintos ficheros gif, con más ó menos velocidad
+### Los juntamos en distintos ficheros gif, modificando los fps.
 <br>
 <br>
 ### Terminamos con creando un fichero mp4 generado con ffmpeg
